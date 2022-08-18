@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mathieutardy
-- 👀 I’m interested in data science and data analysis
-- 🌱 I’m currently pursuing a Master in Data Science and Business Analytics at ESSEC & CentraleSupelec
+- 💼 I am a data scientist consultant for Capgemini Invent
+- 👀 I’m interested in data science, data engineering & data analysis
+- 🌱 I pursued Master in Data Science and Business Analytics at ESSEC & CentraleSupelec
 - 💼 I also have a undergraduate degree from the London School of Economics (LSE)
 - 📫 How to reach me: mathieutardy97@gmail.com
 - 🤗 Feel free to send me an invite on [linkedin](https://www.linkedin.com/in/mathieu-tardy-130069104/ "My Linkedin")
